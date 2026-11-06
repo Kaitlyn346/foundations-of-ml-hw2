@@ -1,0 +1,25 @@
+# Only track the revised Homework 2 (data2/); ignore everything else in this folder
+/*
+!/.gitignore
+!/README.md
+!/assignment.pdf
+!/data2/
+
+/data2/*
+!/data2/homework_2_new.ipynb
+!/data2/dataloader.py
+!/data2/models.py
+!/data2/plotting.py
+!/data2/train.csv
+!/data2/val.csv
+!/data2/test.csv
+!/data2/retail.csv
+!/data2/taxi_trips.parquet
+!/data2/mlp_surface.png
+!/data2/rks_surface.png
+!/data2/mlp_test_predictions.csv
+!/data2/rks_test_predictions.csv
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
